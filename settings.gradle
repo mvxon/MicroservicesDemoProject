@@ -1,0 +1,6 @@
+rootProject.name = 'microservices-demo-project'
+
+includeBuild 'eureka-server'
+includeBuild 'crud-app'
+includeBuild 'api-gateway'
+includeBuild 'consumer-app'
